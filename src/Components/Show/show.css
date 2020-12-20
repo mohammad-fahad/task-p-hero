@@ -1,0 +1,13 @@
+.movies{
+    width: 18rem;
+    border: none;
+    border-radius: 30px;
+}
+.movies:hover{
+    box-shadow: 5px 5px 20px whitesmoke;
+}
+.user{
+    border: 1px solid rgba(181, 252, 159, 0.384);
+    border-radius: 30px;
+    padding: 2px 5px;
+}
